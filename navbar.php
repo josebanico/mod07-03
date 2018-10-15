@@ -1,0 +1,20 @@
+<?php require_once "dependencies.php"; ?>
+<nav class ="navbar navbar-expand-lg navbar-dark bg-dark">
+	<a href="#" class="navbar-brand">Bored Games</a>	
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarNav">
+		<ul class="navbar-nav ml-auto">
+			<li class="nav-item">
+				<a href="#" class="nav-link">Login</a>
+			</li>
+			<li class="nav-item">
+				<a href="#" class="nav-link">Register</a>
+			</li>
+			<li class="nav-item">
+				<a href="#" class="nav-link">Home</a>
+			</li>
+		</ul>
+	</div>
+</nav>
